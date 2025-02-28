@@ -4,8 +4,6 @@ I am a Front-End Engineer with 7 years of experience, primarily working with the
 
 Beyond coding, I am also passionate about web security and hold a Google certification in the field. Currently, I'm exploring Docker, GitHub Actions, and Kubernetes to enhance CI/CD workflows and streamline project deployments.
 
-![<prozorovskiyvladislav>'s Stats](https://github-readme-stats.vercel.app/api?username=prozorovskiyvladislav&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,django,react,%20docker,%20redux,node)](https://skillicons.dev)
 
