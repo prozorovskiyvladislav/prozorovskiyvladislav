@@ -13,31 +13,37 @@ Beyond coding, I am also passionate about web security and hold a Google certifi
 - Cloud & DevOps: Learning Docker, GitHub Actions, and Kubernetes
 - Web Security: Enhancing knowledge to build secure web applications
 
- ## Portfolio
-https://real-estate-bay-one.vercel.app/
+🌿 Growvia
 
-Real Estate Marketplace
+🔗 https://growvia.org
 
-This project is a full-stack real estate marketplace built using Django (backend) and Next.js (frontend), designed to connect buyers and sellers in a seamless, efficient platform.
+A full-stack wellness platform focused on personal growth, meditation, and mindful living.
 
-Tech Stack:
- - Backend: Django + Django REST Framework
- - Frontend: Next.js (React)
- - Database: PostgreSQL
- - Caching: Redis
- - Authentication: JWT (Django REST Framework) + NextAuth.js (session-based)
- - Search: PostgreSQL full-text search (SearchVector, SearchQuery)
- - Tagging System: Django-Taggit for property categorization and monetization
- - Role Management: Buyers and sellers with different permissions
+🛠 Tech Stack
 
-Features:
- - ✅ User Roles & Authentication – Secure authentication using JWT and NextAuth.js, with role-based access for buyers and sellers.
- - ✅ Property Listings – Sellers can create, manage, and promote their properties using a tag-based monetization system.
- - ✅ Advanced Search – Optimized full-text search using PostgreSQL’s SearchVector and SearchQuery.
- - ✅ Caching & Performance – Redis caching to improve performance and reduce database load.
- - ✅ Dockerized Setup – Fully containerized development and production environments using Docker and Docker Compose.
- - ✅ CI/CD Integration – Automated testing and deployment using GitHub Actions.
- - ✅ Scalable Hosting – Frontend deployed on Vercel, backend on Render, and Redis managed by Upstash.
+Frontend: Next.js (React, TypeScript)
+
+Backend: NestJS (TypeScript)
+
+Database: PostgreSQL
+
+ORM: TypeORM
+
+Authentication: NestJS + NextAuth
+
+Deployment: Vercel (Frontend), Railway (Backend)
+
+✨ Features
+
+Secure authentication and user management
+
+Blog system with SEO optimization
+
+Guided practices and meditation content
+
+Scalable architecture built with TypeScript across the stack
+
+React Native mobile app (coming soon)
 
  ## 🏆 Achievements
 
