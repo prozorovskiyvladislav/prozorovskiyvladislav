@@ -49,7 +49,7 @@ React Native mobile app (coming soon)
 
 - Google Certified in Web Security
 - Worked on 10+ Large-Scale Projects using modern front-end and back-end technologies
-- Expanding into Full-Stack Development with Python, Django & DevOps
+- Expanding into Full-Stack Development with Nodejs, Nestjs & DevOps
 
 ## 📬 Get in Touch
 
